@@ -1,8 +1,9 @@
 # xq_mpvue
 
-> xq_Mpvue
+> 相亲交友小程序搭建
 
 ## Build Setup
+###推荐使用yarn
 
 ``` bash
 # 初始化项目
