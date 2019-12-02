@@ -1,0 +1,8 @@
+{
+    "navigationBarTitleText": "相亲",
+    "usingComponents": {
+        "van-button": "/static/vant/button/index",
+        "van-tabbar-item": "/static/vant/tabbar-item/index",
+        "van-skeleton": "/static/vant/skeleton/index"
+    }
+  }
